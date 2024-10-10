@@ -1,1 +1,3 @@
-En el curso de git GitHub aprendí comandos nuevos como git add, git push, git commit, git diff, git status, git log, git reflog, git Branch, git checkout y mas, comandos necesarios para poder trabajar en equipo con mis compañeros de trabajo
+En el curso de git GitHub aprendí comandos nuevos como git add, git push, git commit, git diff, git status, git log, git reflog, git Branch, git checkout y mas, comandos necesarios para poder trabajar en equipo con mis compañeros de trabajo.
+
+Modificación desde la rama de prueba.
